@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://rahulpr.github.io/csb-x7xro/static/css/main.2fbb0555.chunk.css",
-    "main.js": "https://rahulpr.github.io/csb-x7xro/static/js/main.2951c0b2.chunk.js",
-    "main.js.map": "https://rahulpr.github.io/csb-x7xro/static/js/main.2951c0b2.chunk.js.map",
+    "main.js": "https://rahulpr.github.io/csb-x7xro/static/js/main.a2b81831.chunk.js",
+    "main.js.map": "https://rahulpr.github.io/csb-x7xro/static/js/main.a2b81831.chunk.js.map",
     "runtime-main.js": "https://rahulpr.github.io/csb-x7xro/static/js/runtime-main.f04c2d73.js",
     "runtime-main.js.map": "https://rahulpr.github.io/csb-x7xro/static/js/runtime-main.f04c2d73.js.map",
     "static/js/2.1493c655.chunk.js": "https://rahulpr.github.io/csb-x7xro/static/js/2.1493c655.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f04c2d73.js",
     "static/js/2.1493c655.chunk.js",
     "static/css/main.2fbb0555.chunk.css",
-    "static/js/main.2951c0b2.chunk.js"
+    "static/js/main.a2b81831.chunk.js"
   ]
 }
